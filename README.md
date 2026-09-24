@@ -8,3 +8,6 @@ ECE444 PRA1 - Git and GitHub
 
 ![Merge output](screenshots/activity2-merge.png)
 
+## Activity 3
+
+![Successful merge after resolving conflict](screenshots/activity3-merge.png)

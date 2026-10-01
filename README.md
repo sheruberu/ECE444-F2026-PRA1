@@ -21,7 +21,7 @@ ECE444 PRA1 - Git and GitHub
 ## Activity 5
 
 Running the rebase:
-![Rebase command and output](screenshots/activity5-before.png)
+![Rebase command and output](screenshots/activity5-rebase.png)
 
 After the rebase - order is c3, c4, c1, c2:
 ![Log after rebase](screenshots/activity5-after.png)
